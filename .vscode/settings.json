@@ -1,0 +1,15 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "files.exclude": {
+        "Development/Project/.dependencies": true,
+        "Development/Project/.objects": true
+    },
+    "files.associations": {
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp"
+    },
+    "C_Cpp.intelliSenseEngine": "Tag Parser"
+}

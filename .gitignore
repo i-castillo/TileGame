@@ -1,0 +1,7 @@
+*.o
+*.a
+*inl
+Development/SFML-2.4.2/share
+Development/Project/.dependencies
+Development/Project/.objects
+share
